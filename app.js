@@ -5,6 +5,7 @@ const bodyParser = require('body-parser');
 const config = require('./config/database');
 const passport = require('passport');
 let users = require('./routes/users');
+let data = require('./routes/data');
 
 mongoose.connect(config.database);
 let db = mongoose.connection;
@@ -26,6 +27,7 @@ app.use(passport.initialize());
 // Set Public Folder
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use('/users', users);
+app.use('/data', data);
 app.get('/', function(req, res) {
     res.send({
         message: 'Home page'

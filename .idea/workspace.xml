@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2af4bb-e1eb-4fc6-a5b5-99a20c6b1f82" name="Default Changelist" comment="" />
+    <list default="true" id="cf2af4bb-e1eb-4fc6-a5b5-99a20c6b1f82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bcryptjs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BackendProjectSEM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BackendProjectSEM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1WFGg0KttokLbJNNzp7nuEFGp8L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +41,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="ServiceViewManager">
@@ -51,6 +72,9 @@
       <updated>1578738036526</updated>
       <workItem from="1578738038232" duration="6870000" />
       <workItem from="1578748746374" duration="3786000" />
+      <workItem from="1578768158150" duration="229000" />
+      <workItem from="1578830311546" duration="16000" />
+      <workItem from="1578842076437" duration="3717000" />
     </task>
     <servers />
   </component>
@@ -78,5 +102,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="747" height="201" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578748728675" />
+    <state x="555" y="77" key="SettingsEditor" timestamp="1578842487318">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578842487318" />
   </component>
 </project>
